@@ -1,52 +1,74 @@
-# Tableau_Dashboard
+# Tableau Dashboard for Indian Economic Data
 
-Every year, the Government in India releases the Economic Survey and the Statistical Appendix which contains the entirety of data collected by the Government across multiple fields such as finance, industries, banking, agriculture, health and education, and so on. This data is released in a pdf as well as csv format on the official economic survey website and can be acsessed as such.
+## Overview
 
-This raw data is a goldmine of information and if processed and visualised properly, can undiscover a plethora of new insights into the inner workings of the Indian economy. The data although plenty is inconsistent and not standardised. Manual cleaning and formatting are required to clean, combine and process this data to make it usable. 
+This project focuses on visualizing and analyzing economic data from the Government of India's annual Economic Survey and Statistical Appendix. These datasets, available in PDF and CSV formats on the [official Economic Survey website](https://www.indiabudget.gov.in/economicsurvey/), contain comprehensive information across various sectors, including finance, industries, banking, agriculture, health, and education.
 
-After this data modelling, the data is fed into tableau and the process of uncovering insights begins. The data has been combined into 7 key sectors with further sub sections namely:
+The primary goal of this project is to extract valuable insights from this data by cleaning, standardizing, and processing it. The processed data is then fed into Tableau, where a dashboard has been created to facilitate the exploration of economic trends and indicators.
 
-1. National Indicators
-      1.1. National Incomes
-      1.2. Real Gross Value Added at Basic Prices
-      1.3. Nominal Gross Value Added
-      1.4. Gross Domestic Product
-      1.5. State Domestic Product
-2. Agriculture
-      2.1. Production of Major Crops
-      2.2. Yield Per Hectare
-      2.3. Gross Area Under Major Crops
-3. Infrastructure
-      3.1. Growth of Civil Aviation
-      3.2. Operation of Road Trandport
-      3.3. Operation of Railways
-4. Finance
-      4.1. Currency
-      4.2. Money
-      4.3. Deposits
-      4.4. Indices
-5. Trade
-      5.1. Export, Import in Rupees
-      5.2. Export, Import in Dollars
-      5.3. Trade Balance
-6. Health and Education
-      6.1. Birth Rate
-      6.2. Death Rate
-      6.3. Infant Mortality Rate
-      6.4. Educational Enrollment
-7. High Frequency Indicators
-      7.1. Monetary and Trade Indicators
-      7.2. Financial and Market Indicators
-      7.3. Energy and Commodities
-      7.4. Transportation and Logistics
-      7.5. Economic Indices
+## Dashboard Sections
 
-As a added feature, an analysis tooltip was added to the dashboard which gives you an analysis of why there was an unprecedented decline or increase in the conomic growth of the country
+The data is organized into seven key sectors, each with further subsections:
 
+1. **National Indicators**
+   - National Incomes
+   - Real Gross Value Added at Basic Prices
+   - Nominal Gross Value Added
+   - Gross Domestic Product
+   - State Domestic Product
 
-**Final_Dashboard**
+2. **Agriculture**
+   - Production of Major Crops
+   - Yield Per Hectare
+   - Gross Area Under Major Crops
 
-The dataset can be acessed using the [DatasetLink](https://www.indiabudget.gov.in/economicsurvey/)
+3. **Infrastructure**
+   - Growth of Civil Aviation
+   - Operation of Road Transport
+   - Operation of Railways
 
-The dashboard has been created using tableau and can be acessed using [Dashboard Link]([https://www.openai.com/](https://public.tableau.com/views/EconomyMonitoringProposal3/5_1HFI-1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/EconomyMonitoringProposal3/5_1HFI-1?:language=en-US&:display_count=n&:origin=viz_share_link)
+4. **Finance**
+   - Currency
+   - Money
+   - Deposits
+   - Indices
+
+5. **Trade**
+   - Export, Import in Rupees
+   - Export, Import in Dollars
+   - Trade Balance
+
+6. **Health and Education**
+   - Birth Rate
+   - Death Rate
+   - Infant Mortality Rate
+   - Educational Enrollment
+
+7. **High Frequency Indicators**
+   - Monetary and Trade Indicators
+   - Financial and Market Indicators
+   - Energy and Commodities
+   - Transportation and Logistics
+   - Economic Indices
+
+Additionally, the dashboard features an analysis tooltip that provides insights into significant changes in economic growth.
+
+## Access the Dashboard
+
+You can access the interactive Tableau dashboard via the following link: [Dashboard Link](https://public.tableau.com/views/EconomyMonitoringProposal3/5_1HFI-1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## How to Use
+
+- Navigate through the sectors and subsections to explore different economic indicators.
+- Hover over data points to view tooltips with additional information.
+- Utilize the analysis tooltip to gain insights into economic trends.
+
+## Dataset Source
+
+The raw dataset used in this project can be accessed from the [Government of India's Economic Survey website](https://www.indiabudget.gov.in/economicsurvey/).
+
+---
+
+For any questions or contributions, please don't hesitate to contact us
+[Send an Email](pranjali.sharma1049@gmail.com)
 
