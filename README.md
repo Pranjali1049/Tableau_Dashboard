@@ -1,5 +1,9 @@
 # Tableau Dashboard for Indian Economic Data
 
+## Access the Dashboard
+
+You can access the interactive Tableau dashboard via the following link: [Dashboard Link](https://public.tableau.com/views/EconomyMonitoringProposal3/5_1HFI-1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Overview
 
 This project focuses on visualizing and analyzing economic data from the Government of India's annual Economic Survey and Statistical Appendix. These datasets, available in PDF and CSV formats on the [official Economic Survey website](https://www.indiabudget.gov.in/economicsurvey/), contain comprehensive information across various sectors, including finance, industries, banking, agriculture, health, and education.
@@ -52,10 +56,6 @@ The data is organized into seven key sectors, each with further subsections:
    - Economic Indices
 
 Additionally, the dashboard features an analysis tooltip that provides insights into significant changes in economic growth.
-
-## Access the Dashboard
-
-You can access the interactive Tableau dashboard via the following link: [Dashboard Link](https://public.tableau.com/views/EconomyMonitoringProposal3/5_1HFI-1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## How to Use
 
