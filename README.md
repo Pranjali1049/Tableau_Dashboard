@@ -6,7 +6,7 @@ You can access the interactive Tableau dashboard via the following link: [Dashbo
 
 ## Overview
 
-This project focuses on visualizing and analyzing economic data from the Government of India's annual Economic Survey and Statistical Appendix. These datasets, available in PDF and CSV formats on the [official Economic Survey website](https://www.indiabudget.gov.in/economicsurvey/), contain comprehensive information across various sectors, including finance, industries, banking, agriculture, health, and education.
+This project focuses on visualizing and analyzing economic data from the Government of India's annual Economic Survey and Statistical Appendix. These datasets, available in PDF and CSV formats on the official [Economic Survey Website](https://www.indiabudget.gov.in/economicsurvey/), contain comprehensive information across various sectors, including finance, industries, banking, agriculture, health, and education.
 
 The primary goal of this project is to extract valuable insights from this data by cleaning, standardizing, and processing it. The processed data is then fed into Tableau, where a dashboard has been created to facilitate the exploration of economic trends and indicators.
 
